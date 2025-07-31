@@ -5,7 +5,6 @@ Este repositório contém a aplicação frontend do Sistema de Gerenciamento de 
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** TypeScript
-* **Framework:** React
 * **Ferramenta de Build:** Vite
 * **Requisições HTTP:** Axios
 * **Estilização:** CSS puro
