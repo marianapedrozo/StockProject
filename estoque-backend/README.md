@@ -45,7 +45,7 @@ Para rodar a aplicação backend em sua máquina local, siga os passos abaixo:
     cd estoque-backend
     ```
 2.  **Navegue até o diretório raiz do projeto:**
-    Certifique-se de estar na pasta onde o arquivo `pom.xml` está localizado (`C:\Users\leleg\Downloads\estoque` no seu caso).
+    Certifique-se de estar na pasta onde o arquivo `pom.xml` está localizado.
 
 3.  **Execute a aplicação Spring Boot:**
     * **No Windows:**
